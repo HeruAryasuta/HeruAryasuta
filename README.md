@@ -4,7 +4,7 @@ I'm Heru Aryasuta, a technology enthusiast currently fully immersed in the world
 
 ## Let's Connect 🌐
 
-<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/facebook/white" /><a href="https://www.facebook.com/heru.aryasuta.58"> Find me on Facebook</a>
+<img height="21" width="21" align="center" src="https://simpleicons.org/icons/facebook.svg" /><a href="https://www.facebook.com/heru.aryasuta.58"> Find me on Facebook</a>
 
 <img height="21" width="21" align="center" src="https://cdn.simpleicons.org/Instagram/white" /><a href="https://www.instagram.com/heru_aryasuta/" target="_blank"> Connect on Instagram</a>
 
