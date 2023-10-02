@@ -1,8 +1,8 @@
 ## Hello there! <img src="https://media.tenor.com/DLWGvDkhhyMAAAAi/gray-hair-big-eyes.gif" width="31px">
 
-I'm Heru Aryasuta, a tech enthusiast on a journey at Malikussaleh University, unwrapping the world of Information Systems.
+I'm Heru Aryasuta, a technology enthusiast currently fully immersed in the world of Android Native app development with Kotlin. I'm on an exciting journey of exploration in this enthusiastic environment.
 
-## Let's Get Connected 🌐
+## Let's Connect 🌐
 
 <img height="21" width="21" align="center" src="https://cdn.simpleicons.org/facebook/white" /><a href="https://www.facebook.com/heru.aryasuta.58"> Find me on Facebook</a>
 
@@ -10,6 +10,4 @@ I'm Heru Aryasuta, a tech enthusiast on a journey at Malikussaleh University, un
 
 <img height="21" width="21" align="center" src="https://cdn.simpleicons.org/gmail/white" /><a href="mailto:aryasutaheru08@gmail.com"> Drop a message</a>
 
-Feel free to reach out! Let's share insights and code dreams together. 🚀📚
-
-
+I'm passionate about sharing knowledge, experiences, and dreams in the Android world. Whether you have questions, want to discuss, or simply engage in conversations about technology and innovation, feel free to reach out! Let's together explore the boundless potential of the Android platform. 🚀📚
